@@ -1,0 +1,72 @@
+body {
+  background-color: rgb(248, 247, 247);
+}
+
+.myImg {
+  text-align: center;
+}
+
+.with-conic-gradient {
+  border-style: solid;
+  border-width: 10px;
+  border-image: conic-gradient(red, white, blue) 1;
+  text-align: center;
+}
+.mx-auto {
+  text-align: center;
+}
+.display-4,
+.lead {
+  text-align: center;
+}
+.btnID:hover {
+  background-color: #008cba;
+  color: white;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+
+#helpId {
+  text-align: center;
+}
+footer {
+  background-color: cornsilk;
+  text-align: center;
+}
+.whoweare {
+  border-style: solid;
+  border-width: 10px;
+  border-image: conic-gradient(red, white, blue) 1;
+  text-align: left;
+}
+.partiesID {
+  border-style: solid;
+  border-color: darkcyan;
+}
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+}
+
+/* img{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50px;
+  
+} */
+
+.card-title {
+  text-align: center;
+  color: rgb(14, 13, 13);
+}
+
+.card-header-color {
+  color: black !important;
+}
+
+.commentID{
+    color: white;
+}
